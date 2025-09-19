@@ -1,3 +1,4 @@
 .vscode/
 .idea
 /books
+/__pycache__
